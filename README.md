@@ -1,8 +1,8 @@
 # Gpo_6J_B_Dart_UI
 Ejemplos de Listas, Mapas, Funciones, Clases y Herencia 
 
- - [ ] [Listas](https://dartpad.dev/)
- - [ ] [Map](https://dartpad.dev/)
+ - [ ] [Listas](https://dartpad.dev/116e094811033d17fe6f08069f18aa74)
+ - [ ] [Map](https://dartpad.dev/116e094811033d17fe6f08069f18aa74)
  - [ ] [Funciones varias](https://dartpad.dev/116e094811033d17fe6f08069f18aa74)
  - [ ] [Funcion flecha](https://dartpad.dev/fbf88dd9f01bf42fc2b7628f8b92d1a5)
  - [ ] [Clses](https://dartpad.dev/5028db710910bcb07179ffe6b491e57c)
